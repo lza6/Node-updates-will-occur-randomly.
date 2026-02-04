@@ -1,0 +1,771 @@
+proxies:
+  - name: "\U0001F1F9\U0001F1FCTW_1|1.5MB/s|GPT⁺|YT-TW|NF|D+|GM"
+    password: exaxgqkKkd0TAMrCxeonWg==
+    port: 1443
+    server: twmoon1-cdn-route.couldflare-cdn.com
+    skip-cert-verify: false
+    sni: twmoon1-cdn-route.couldflare-cdn.com
+    tls: true
+    type: http
+    username: mrwdfNTD8M79LCukCieldrqZWqs=
+  - client-fingerprint: chrome
+    name: "\U0001F1F9\U0001F1FCTW_2|2.4MB/s|GPT⁺|YT-TW|NF|D+|GM|0%"
+    network: tcp
+    password: bacb661b-0054-4c20-923c-f4abe8bb7eb3
+    port: 26007
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_1|1.2MB/s|GPT⁺|YT-US|NF|GM|0%"
+    network: tcp
+    password: e150dee0-e7e7-4f77-afa7-3b3df5dbb018
+    port: 27008
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1FA\U0001F1F8US_2|2.8MB/s|GPT⁺|YT-CN|NF|D+|24%"
+    network: tcp
+    port: 7898
+    reality-opts:
+      public-key: s4dI2op4fpqj27daSIymWOHxy_wniR2EhOdOYJVdvS0
+      short-id: ''
+    server: 38.246.229.227
+    tls: true
+    type: vless
+    udp: true
+    uuid: 4a1a7e5f-47ce-44b5-b20f-2e84efa42d1d
+    xudp: true
+    servername: aws.amazon.com
+  - client-fingerprint: chrome
+    name: "\U0001F1F8\U0001F1ECSG_1|1.7MB/s|GPT⁺|YT-CN|NF|D+|GM|0%"
+    network: tcp
+    password: bacb661b-0054-4c20-923c-f4abe8bb7eb3
+    port: 27002
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1EF\U0001F1F5JP_1|1.1MB/s|GPT⁺|YT-JP|NF|D+|GM|0%"
+    network: tcp
+    password: bacb661b-0054-4c20-923c-f4abe8bb7eb3
+    port: 27003
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1EF\U0001F1F5JP_2|1.3MB/s|GPT⁺|YT-JP|NF|D+|GM|0%"
+    network: tcp
+    password: e150dee0-e7e7-4f77-afa7-3b3df5dbb018
+    port: 27005
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1F9\U0001F1FCTW_3|1.1MB/s|GPT⁺|YT-TW|NF|GM|0%"
+    network: tcp
+    password: bacb661b-0054-4c20-923c-f4abe8bb7eb3
+    port: 26005
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_3|1.3MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: tcp
+    password: e150dee0-e7e7-4f77-afa7-3b3df5dbb018
+    port: 27007
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - name: "\U0001F1ED\U0001F1F0HK_1|2.6MB/s|D+|1%"
+    password: <password>
+    port: 8443
+    server: f868c076-t9zts0-tqx9ef-1k0yf.hkt.cdnhuawei.com
+    sni: f868c076-t9zts0-tqx9ef-1k0yf.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: 9cc3c03e-21fd-11ee-a642-f23c91369f2d
+  - client-fingerprint: chrome
+    name: "\U0001F1F9\U0001F1FCTW_4|1.3MB/s|GPT⁺|YT-TW|NF|D+|GM|0%"
+    network: tcp
+    password: e150dee0-e7e7-4f77-afa7-3b3df5dbb018
+    port: 26007
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1ED\U0001F1F0HK_2|1.8MB/s|GPT⁺|YT-HK|GM|0%"
+    network: tcp
+    password: bacb661b-0054-4c20-923c-f4abe8bb7eb3
+    port: 26002
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1EF\U0001F1F5JP_3|1.9MB/s|GPT⁺|YT-JP|NF|D+|GM|0%"
+    network: tcp
+    password: e150dee0-e7e7-4f77-afa7-3b3df5dbb018
+    port: 27006
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - name: "\U0001F1E9\U0001F1EADE_1|1.1MB/s|GPT⁺|YT-DE|NF|D+|9%"
+    password: 0720c874-35e8-11ef-aa88-f23c913c8d2b
+    port: 443
+    server: d102c796-t9zts0-tdq4vj-1l0qa.de.oshuawei.com
+    sni: d102c796-t9zts0-tdq4vj-1l0qa.de.oshuawei.com
+    tls: true
+    type: http
+    username: 0720c874-35e8-11ef-aa88-f23c913c8d2b
+  - name: "\U0001F1E9\U0001F1EADE_2|1.3MB/s|GPT⁺|YT-DE|NF|D+|9%"
+    password: 44e76f8c-7362-11ec-bb74-f23c9164ca5d
+    port: 443
+    server: f16ad118-t9zts0-tb4whp-zn8y.de.oshuawei.com
+    sni: f16ad118-t9zts0-tb4whp-zn8y.de.oshuawei.com
+    tls: true
+    type: http
+    username: 44e76f8c-7362-11ec-bb74-f23c9164ca5d
+  - name: "\U0001F1FA\U0001F1F8US_4|2.8MB/s|GPT⁺|YT-US|NF|D+|GM|9%"
+    password: 21a70fd2-c69c-11eb-8673-f23c9164ca5d
+    port: 443
+    server: 01c6982a-t9zts0-tgplbc-hkb8.jp.oshuawei.com
+    sni: 01c6982a-t9zts0-tgplbc-hkb8.jp.oshuawei.com
+    tls: true
+    type: http
+    username: 21a70fd2-c69c-11eb-8673-f23c9164ca5d
+  - name: "\U0001F1ED\U0001F1F0HK_3|1.3MB/s|YT-CN|NF|1%"
+    password: b4e40aa2-74a1-11ed-b0b5-f23c9164ca5d
+    port: 5228
+    server: 3a5c4caf-t9zts0-tcfo40-17xo8.cm4.oshuawei.com
+    sni: 3a5c4caf-t9zts0-tcfo40-17xo8.cm4.oshuawei.com
+    tls: true
+    type: http
+    username: b4e40aa2-74a1-11ed-b0b5-f23c9164ca5d
+  - client-fingerprint: chrome
+    name: "\U0001F1ED\U0001F1F0HK_4|1.6MB/s|GPT⁺|YT-HK|NF|GM|0%"
+    network: tcp
+    password: bacb661b-0054-4c20-923c-f4abe8bb7eb3
+    port: 26001
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.bilibili.com
+    type: trojan
+    udp: true
+  - name: "\U0001F1EE\U0001F1E9ID_1|3.3MB/s|GPT⁺|NF|29%"
+    password: 22308988-8548-11ea-a22e-f23c91cfbbc9
+    port: 32233
+    server: 71f94621-t9zts0-tiaexf-ufc0.id.oshuawei.com
+    sni: 71f94621-t9zts0-tiaexf-ufc0.id.oshuawei.com
+    tls: true
+    type: http
+    username: 22308988-8548-11ea-a22e-f23c91cfbbc9
+  - name: "\U0001F1E9\U0001F1EADE_3|1.7MB/s|GPT⁺|YT-DE|NF|D+|9%"
+    password: 2d8c38cc-fc12-11ef-94aa-f23c913c8d2b
+    port: 443
+    server: 22227341-t9zts0-tbpu76-1thmd.de.oshuawei.com
+    sni: 22227341-t9zts0-tbpu76-1thmd.de.oshuawei.com
+    tls: true
+    type: http
+    username: 2d8c38cc-fc12-11ef-94aa-f23c913c8d2b
+  - name: "\U0001F1E9\U0001F1EADE_4|1.1MB/s|GPT⁺|YT-DE|NF|D+|9%"
+    password: e29de954-ea01-11ef-a271-f23c91cfbbc9
+    port: 443
+    server: fcbbec95-t9zts0-taj9mo-1tco3.de.oshuawei.com
+    sni: fcbbec95-t9zts0-taj9mo-1tco3.de.oshuawei.com
+    tls: true
+    type: http
+    username: e29de954-ea01-11ef-a271-f23c91cfbbc9
+  - name: "\U0001F1ED\U0001F1F0HK_5|1.1MB/s|YT-CN|D+"
+    password: a6cf58d6-14d1-11eb-a8bf-f23c91cfbbc9
+    port: 5228
+    server: 546bad73-t9zts0-tozbjw-1462e.cm4.oshuawei.com
+    sni: 546bad73-t9zts0-tozbjw-1462e.cm4.oshuawei.com
+    tls: true
+    type: http
+    username: a6cf58d6-14d1-11eb-a8bf-f23c91cfbbc9
+  - name: "\U0001F1ED\U0001F1F0HK_6|2.8MB/s|YT-CN|NF|D+|1%"
+    password: 22308988-8548-11ea-a22e-f23c91cfbbc9
+    port: 5228
+    server: b21cad55-t9zts0-tiaexf-ufc0.cm4.oshuawei.com
+    sni: b21cad55-t9zts0-tiaexf-ufc0.cm4.oshuawei.com
+    tls: true
+    type: http
+    username: 22308988-8548-11ea-a22e-f23c91cfbbc9
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_5|2.9MB/s|GPT⁺|YT-US|NF|D+|GM|5%"
+    network: ws
+    port: 2053
+    server: 104.17.73.206
+    tls: true
+    type: vless
+    udp: true
+    uuid: a2a396c3-f40e-4dee-bdbb-b1201f12dc1c
+    ws-opts:
+      headers:
+        Host: snippet.fgfw.de5.net
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/36.0.1985.125 Safari/537.36
+      path: /danfeng
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: snippet.fgfw.de5.net
+  - name: "\U0001F1ED\U0001F1F0HK_7|4.1MB/s|1%"
+    password: <password>
+    port: 8443
+    server: 7102c5ce-ta1og0-ta6lxc-jjv2.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+    sni: 7102c5ce-ta1og0-ta6lxc-jjv2.hkt.cdnhuawei.com
+  - name: "\U0001F1ED\U0001F1F0HK_8|4.1MB/s"
+    password: <password>
+    port: 8443
+    server: 729a8424-t9zts0-tcinla-hrtf.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: 0da8651e-e1f6-11ec-bd7c-f23c913c8d2b
+    sni: 729a8424-t9zts0-tcinla-hrtf.hkt.cdnhuawei.com
+  - name: "\U0001F1FA\U0001F1F8US_6|2.8MB/s|GPT⁺|YT-US|NF|D+|GM|9%"
+    password: 20f87b02-0eaa-11eb-8684-f23c913c8d2b
+    port: 443
+    server: f47d7a3e-ta1og0-tbao5v-gacy.jp.oshuawei.com
+    tls: true
+    type: http
+    username: 20f87b02-0eaa-11eb-8684-f23c913c8d2b
+    sni: f47d7a3e-ta1og0-tbao5v-gacy.jp.oshuawei.com
+  - name: "\U0001F1ED\U0001F1F0HK_9|2.6MB/s|YT-CN|NF|D+|1%"
+    password: 94d40708-8273-11ea-8fc9-f23c913c8d2b
+    port: 5228
+    server: cfb2c3e6-ta1og0-tbck4p-mv7m.cm4.oshuawei.com
+    tls: true
+    type: http
+    username: 94d40708-8273-11ea-8fc9-f23c913c8d2b
+    sni: cfb2c3e6-ta1og0-tbck4p-mv7m.cm4.oshuawei.com
+  - client-fingerprint: safari
+    encryption: none
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1F0\U0001F1F7KR_1|4.3MB/s|GPT⁺|YT-CN|NF|D+|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: 9rr6yA8sLejb_9JIjScFzbBaXvEKaqKHwsUggtlVw1w
+      short-id: ''
+    server: 2.kr.2.cdn-bilibili.cn
+    tls: true
+    type: vless
+    udp: true
+    uuid: fcfc091d-81a4-40b7-cbdc-8eb7683617a4
+    xudp: true
+    servername: www.icloud.com
+  - client-fingerprint: safari
+    encryption: none
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1F9\U0001F1FCTW_5|2.9MB/s|GPT⁺|YT-TW|NF|D+|GM"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: ev0T0oHwKzoTLJJ-enihK36_fOhb6Wdt5XMMj9QtCh0
+      short-id: ''
+    server: 2.tw.2.cdn-bilibili.cn
+    tls: true
+    type: vless
+    udp: true
+    uuid: fcfc091d-81a4-40b7-cbdc-8eb7683617a4
+    xudp: true
+    servername: www.icloud.com
+  - name: "\U0001F1F2\U0001F1FEMY_1|1.0MB/s|GPT⁺|YT-CN|NF|2%"
+    password: 5f091cbe-fb34-11ea-9777-f23c9164ca5d
+    port: 31233
+    server: ec401282-ta1og0-tiuovf-v3c2.my.oshuawei.com
+    tls: true
+    type: http
+    username: 5f091cbe-fb34-11ea-9777-f23c9164ca5d
+    sni: ec401282-ta1og0-tiuovf-v3c2.my.oshuawei.com
+  - name: "\U0001F1EB\U0001F1F7FR_1|2.1MB/s|GPT⁺"
+    password: bd515574-3b10-11ee-ac14-f23c9164ca5d
+    port: 443
+    server: e2a1dac7-t9zts0-tb016b-1m7l4.fr.oshuawei.com
+    tls: true
+    type: http
+    username: bd515574-3b10-11ee-ac14-f23c9164ca5d
+    sni: e2a1dac7-t9zts0-tb016b-1m7l4.fr.oshuawei.com
+  - name: "\U0001F1EB\U0001F1F7FR_2|1.2MB/s|GPT|YT-FR"
+    password: b58095f0-52dc-11ef-bc74-f23c91cfbbc9
+    port: 443
+    server: 155134f8-t9zts0-tmynyz-1s3mx.fr.oshuawei.com
+    tls: true
+    type: http
+    username: b58095f0-52dc-11ef-bc74-f23c91cfbbc9
+    sni: 155134f8-t9zts0-tmynyz-1s3mx.fr.oshuawei.com
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_7|3.2MB/s|GPT⁺|YT-US|NF|D+|GM|5%"
+    network: ws
+    port: 2053
+    server: 104.17.70.206
+    tls: true
+    type: vless
+    udp: true
+    uuid: a2a396c3-f40e-4dee-bdbb-b1201f12dc1c
+    ws-opts:
+      headers:
+        Host: snippet.fgfw.de5.net
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; vivo 1713 Build/MRA58K)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
+          Safari/537.36
+      path: /danfeng
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: snippet.fgfw.de5.net
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    encryption: none
+    grpc-opts:
+      grpc-service-name: www.bing.com
+    name: "\U0001F1EE\U0001F1EAIE_1|2.3MB/s|GPT⁺|YT-IE|NF|3%"
+    network: grpc
+    port: 48056
+    server: 34.254.224.37
+    tls: true
+    type: vless
+    udp: true
+    uuid: d811ecf9-4029-4794-a43e-3611c3575b9e
+    xudp: true
+    servername: 34.254.224.37
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1FA\U0001F1F8US_8|2.5MB/s|GPT⁺|YT-RU|NF|D+|GM|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+      short-id: 8453e5fd9af927
+    server: 213.165.60.36
+    tls: true
+    type: vless
+    udp: true
+    uuid: e108f3eb-4d3a-4e20-a09b-7008e333bc23
+    xudp: true
+    servername: hls-svod.itunes.apple.com
+  - client-fingerprint: qq
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F1EC\U0001F1E7GB_1|3.1MB/s|GPT⁺|YT-CN|NF|30%"
+    network: tcp
+    port: 20701
+    reality-opts:
+      public-key: GwBhOiy3pLa73zga-wmG07xRfiI71_A9VDi-DiHeBWk
+      short-id: '9153'
+    server: 701.gp68knq.com
+    tls: true
+    type: vless
+    udp: true
+    uuid: 962bffc1-16bb-4232-ae66-d366d3ea8927
+    xudp: true
+    servername: img14.360buyimg.com
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_9|2.4MB/s|GPT⁺|YT-US|NF|D+|GM|5%"
+    network: ws
+    port: 2053
+    server: 104.17.74.206
+    tls: true
+    type: vless
+    udp: true
+    uuid: a2a396c3-f40e-4dee-bdbb-b1201f12dc1c
+    ws-opts:
+      headers:
+        Host: snippet.fgfw.de5.net
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/43.0.2357.65 Safari/537.36
+      path: /danfeng
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: snippet.fgfw.de5.net
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1EB\U0001F1EEFI_1|2.2MB/s|GPT⁺|YT-RU|NF|D+|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: pFxmQtVv_P_3kyhv3yneBFCY_rM6jia49f2QHX4ge3s
+      short-id: c0f5aeb6a19599c5
+    server: access-fl12.agveit.pro
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7529c887-420c-4a80-8c2d-2cd07f56a7e4
+    xudp: true
+    servername: queuev4.vk.com
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1EB\U0001F1EEFI_2|2.1MB/s|GPT⁺|YT-RU|NF|D+|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: Tirj98leOqk6UQotwdOJEY8ykjw6hM1TLfJdmM1y8mU
+      short-id: 86880aa1e22b8452
+    server: access-fl17.agveit.pro
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7529c887-420c-4a80-8c2d-2cd07f56a7e4
+    xudp: true
+    servername: queuev4.vk.com
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1EB\U0001F1EEFI_3|2.0MB/s|GPT⁺|YT-RU|D+|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: mrJIDpjeflH1MlMAay2yTm7A4hb89ZrJR7xtJufisAE
+      short-id: b68b2c6feedc0c05
+    server: access-fl21.agveit.pro
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7529c887-420c-4a80-8c2d-2cd07f56a7e4
+    xudp: true
+    servername: queuev4.vk.com
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1EB\U0001F1EEFI_4|1.1MB/s|GPT⁺|YT-RU|NF|D+|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: qFtvR1w8LHcwmmO5AvrRbOjeKx1PCWtsvEu1U1to6lw
+      short-id: 6f8a26f3d476b9ed
+    server: access-fl22.agveit.pro
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7529c887-420c-4a80-8c2d-2cd07f56a7e4
+    xudp: true
+    servername: queuev4.vk.com
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1E8\U0001F1EDCH_1|2.2MB/s|GPT⁺|YT-DE|D+|0%"
+    network: tcp
+    port: 8443
+    reality-opts:
+      public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+      short-id: 6ba85179e30d4fc2
+    server: 45.141.119.180
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7a4b6d8d-7d34-4aa8-b7ef-662a177b94f2
+    xudp: true
+    servername: ign.dev
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1EB\U0001F1EEFI_5|1.2MB/s|GPT⁺|D+|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: NCBIvi-mY4JtLwYFuSl7Vo2O-UOuBQTtwkxisb7oNGo
+      short-id: 4223bfe7292f05db
+    server: access-fl24.agveit.pro
+    tls: true
+    type: vless
+    udp: true
+    uuid: 7529c887-420c-4a80-8c2d-2cd07f56a7e4
+    xudp: true
+    servername: queuev4.vk.com
+  - client-fingerprint: chrome
+    name: "\U0001F1E7\U0001F1EDBH_1|2.0MB/s|GPT⁺|YT-BH|NF|GM|1%"
+    network: tcp
+    password: M7v%w11Se*
+    port: 443
+    server: blaab.wsone.icu
+    skip-cert-verify: false
+    sni: blaab.wsone.icu
+    type: trojan
+    udp: true
+rule-providers:
+  private:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/private.yaml
+    path: ./ruleset/private.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  cn_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/cn.yaml
+    path: ./ruleset/cn_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  telegram_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/telegram.yaml
+    path: ./ruleset/telegram_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  google_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/google.yaml
+    path: ./ruleset/google_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  geolocation-!cn:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/geolocation-!cn.yaml
+    path: ./ruleset/geolocation-!cn.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  cn_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/cn.yaml
+    path: ./ruleset/cn_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  telegram_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/telegram.yaml
+    path: ./ruleset/telegram_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  google_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/google.yaml
+    path: ./ruleset/google_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  bing:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Bing/Bing.yaml
+    path: ./ruleset/bing.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  copilot:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Copilot/Copilot.yaml
+    path: ./ruleset/copilot.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  claude:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Claude/Claude.yaml
+    path: ./ruleset/claude.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  bard:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BardAI/BardAI.yaml
+    path: ./ruleset/bard.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  openai:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/OpenAI/OpenAI.yaml
+    path: ./ruleset/openai.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  steam:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Steam/Steam.yaml
+    path: ./ruleset/steam.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+proxy-groups:
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Static.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: PROXY
+    type: select
+    proxies:
+      - AUTO
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Urltest.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/OpenAI.png'
+    name: AIGC
+    type: select
+    proxies:
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Telegram.png'
+    name: Telegram
+    type: select
+    proxies:
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Google.png'
+    name: Google
+    type: select
+    proxies:
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/HK.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)香港|Hong Kong|HK|\U0001F1ED\U0001F1F0"
+    name: HK AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/SG.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)新加坡|Singapore|\U0001F1F8\U0001F1EC"
+    name: SG AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/JP.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)日本|Japan|\U0001F1EF\U0001F1F5"
+    name: JP AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/US.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)美国|USA|\U0001F1FA\U0001F1F8"
+    name: US AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Global.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    proxies:
+      - PROXY
+      - AUTO
+      - AIGC
+      - Telegram
+      - Google
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+    name: GLOBAL
+    type: select
+rules:
+  - 'PROCESS-NAME,subs-check.exe,DIRECT'
+  - 'PROCESS-NAME,subs-check,DIRECT'
+  - 'RULE-SET,private,DIRECT'
+  - 'RULE-SET,bing,AIGC'
+  - 'RULE-SET,copilot,AIGC'
+  - 'RULE-SET,bard,AIGC'
+  - 'RULE-SET,openai,AIGC'
+  - 'RULE-SET,claude,AIGC'
+  - 'RULE-SET,steam,PROXY'
+  - 'RULE-SET,telegram_domain,Telegram'
+  - 'RULE-SET,telegram_ip,Telegram'
+  - 'RULE-SET,google_domain,Google'
+  - 'RULE-SET,google_ip,Google'
+  - 'RULE-SET,geolocation-!cn,PROXY'
+  - 'RULE-SET,cn_domain,DIRECT'
+  - 'RULE-SET,cn_ip,DIRECT'
+  - 'MATCH,PROXY'
